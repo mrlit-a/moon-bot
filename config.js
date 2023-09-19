@@ -10,7 +10,7 @@ global.APIs = {
   alya: 'https://api.alyachan.biz.id'
 }
 global.APIKeys = {
-  'https://api.alyachan.biz.id': 'Your Key' // Silahkan register dulu
+  'https://api.alyachan.biz.id': 'LWxKWJ' // Silahkan register dulu
 }
 
 global.set = {
